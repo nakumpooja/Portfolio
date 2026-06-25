@@ -49,7 +49,7 @@ Visit the live portfolio:https://6a3d4dc09f4ef00a0d85493d--bucolic-pudding-83436
 
 ## 📞 Contact
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [nakumpoojan@gmail.com](mailto:nakumpoojan@com)
 
 LinkedIn: https://www.linkedin.com/in/nakum-pooja-4735b729b/
 
