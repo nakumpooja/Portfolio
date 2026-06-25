@@ -45,14 +45,13 @@ Portfolio/
 
 ## 📸 Portfolio Preview
 
-Visit the live portfolio:
-(Add your Netlify link here after deployment)
+Visit the live portfolio:https://6a3d4dc09f4ef00a0d85493d--bucolic-pudding-83436e.netlify.app/
 
 ## 📞 Contact
 
 Email: [your-email@example.com](mailto:your-email@example.com)
 
-LinkedIn: Add your LinkedIn profile link
+LinkedIn: https://www.linkedin.com/in/nakum-pooja-4735b729b/
 
 GitHub: https://github.com/nakumpooja
 
