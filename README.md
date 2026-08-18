@@ -45,7 +45,7 @@ Portfolio/
 
 ## 📸 Portfolio Preview
 
-Visit the live portfolio:https://6a3d4dc09f4ef00a0d85493d--bucolic-pudding-83436e.netlify.app/
+Visit the live portfolio:https://bucolic-pudding-83436e.netlify.app/
 
 ## 📞 Contact
 
